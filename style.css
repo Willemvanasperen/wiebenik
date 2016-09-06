@@ -1,12 +1,22 @@
-	body {
-			background-image: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/07/white-background-4.jpg");
+	body 
+			{background: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/07/white-background-4.jpg")
+			 no-repeat center center fixed; 
+			background-size: cover;}
+		
+		h1 		{text-align: center;
+				color: #662cff; 
+				width: 600px;
+				border-style: inset ;}
 			
-		}
-		h1 {
-			text-align: center;
-			color: #2626d9;
-		}
-		p {
-			
-			color: #5959a6 ;
-		}
+			p 		{ color: #5959a6 ;}}
+				
+			img
+				{width:300px;
+ 				height:330px;}
+
+	#yes {	height: 80px;
+			width: 600px;}
+			#no { 	height: 230px ;  
+					width : 600px ;
+					border-style: inset ;}
+		
