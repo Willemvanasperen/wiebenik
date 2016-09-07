@@ -4,19 +4,22 @@
 			background-size: cover;}
 		
 		h1 		{text-align: center;
-				color: #662cff; 
+				color: #5959a6; 
 				width: 600px;
-				border-style: inset ;}
+				;}
 			
 			p 		{ color: #5959a6 ;}}
 				
-			img
-				{width:300px;
- 				height:330px;}
+				img
+					{width:300px;
+	 				height:330px;
+	 				outline: solid}
 
-	#yes {	height: 80px;
-			width: 600px;}
-			#no { 	height: 230px ;  
-					width : 600px ;
-					border-style: inset ;}
-		
+					#yes {	height: 80px;
+							width: 600px;
+							outline: solid;}
+							
+							#no { 	height: 230px ;  
+									width : 600px ;
+									outline: solid ;}
+								
